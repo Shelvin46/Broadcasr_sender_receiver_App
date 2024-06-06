@@ -1,4 +1,4 @@
-# broadcast_hanlder_app
+# broadcast_sender_receiver_app
 
 A new Flutter project.
 
